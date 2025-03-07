@@ -1,10 +1,11 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo do BootCamp: Microsoft AI for Tech – Criando Prompts Inteligentes
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um post para o LinkedIn sobre o BootCamp "Microsoft AI for Tech – Criando Prompts Inteligentes", destacando a importância de dominar a criação de prompts para interagir de forma eficaz com a inteligência artificial. Também desenvolvi um script para o vídeo no modelo shorts utilizando o Chat GPT, onde um avatar (utilizando minha imagem) transmite autoridade sobre como a IA e a criação de prompts inteligentes podem impactar positivamente a carreira e os negócios, de forma clara e motivadora. Por fim, pedi sugestões hashtags específicas para LinkedIn para o Chat GPT
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- [Chat GPT](https://openai.com)
+- [D-ID](https://www.d-id.com)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
@@ -13,16 +14,6 @@ Descreva como você criou o conteúdo
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar algo "natty" (autêntico, natural e envolvente) com IA é um grande desafio, especialmente quando se trata de gerar conteúdo que soe genuíno e conecte com o público de forma emocional. A principal dificuldade está em capturar a humanidade em algo criado por um algoritmo. Embora a IA possa ser extremamente eficaz em gerar texto, imagens ou até vídeos, ela ainda carece de nuances emocionais e contextuais que fazem a comunicação humana ser única.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
